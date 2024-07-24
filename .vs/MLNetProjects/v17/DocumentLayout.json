@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projetosErick\\MLNetProjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F720F54E-EB24-463F-89C3-752A76F07B2B}|PricePredictionModelConsole\\PricePredictionModelConsole.csproj|e:\\projetoserick\\mlnetprojects\\pricepredictionmodelconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F720F54E-EB24-463F-89C3-752A76F07B2B}|PricePredictionModelConsole\\PricePredictionModelConsole.csproj|solutionrelative:pricepredictionmodelconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613F99CA-6779-4EF5-A5A3-15E7A56831A8}|MLNetProjects\\MLNetProjects.csproj|e:\\projetoserick\\mlnetprojects\\mlnetprojects\\methods\\pricepredictionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613F99CA-6779-4EF5-A5A3-15E7A56831A8}|MLNetProjects\\MLNetProjects.csproj|solutionrelative:mlnetprojects\\methods\\pricepredictionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\projetosErick\\MLNetProjects\\PricePredictionModelConsole\\Program.cs",
+              "RelativeDocumentMoniker": "PricePredictionModelConsole\\Program.cs",
+              "ToolTip": "E:\\projetosErick\\MLNetProjects\\PricePredictionModelConsole\\Program.cs",
+              "RelativeToolTip": "PricePredictionModelConsole\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T00:04:22.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PricePredictionMethods.cs",
+              "DocumentMoniker": "E:\\projetosErick\\MLNetProjects\\MLNetProjects\\Methods\\PricePredictionMethods.cs",
+              "RelativeDocumentMoniker": "MLNetProjects\\Methods\\PricePredictionMethods.cs",
+              "ToolTip": "E:\\projetosErick\\MLNetProjects\\MLNetProjects\\Methods\\PricePredictionMethods.cs",
+              "RelativeToolTip": "MLNetProjects\\Methods\\PricePredictionMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T23:58:09.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
